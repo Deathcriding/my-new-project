@@ -45,7 +45,7 @@ print(1+1)
 ![лого гитхаба](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1280px-Octicons-mark-github.svg.png)
 
 Локальная картинка 
-![Капибара](./files/kapibara.jpeg)
+![Капибара](./files/vetki.png)
 
 ## Таблица
 
